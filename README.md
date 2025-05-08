@@ -14,6 +14,6 @@ Project Description
   - map() to generate formatted string descriptions for each student.
   - .forEach() to print those descriptions to the console in a clean format.
 
-Example Output
-Kelechi Otugbuali is 28 years old and scored 85. He/She is taking: Maths, English.
-Muslim Ibrahim is 25 years old and scored 90. He/She is taking: Physics, Chemistry.
+Example Output:
+- Kelechi Otugbuali is 28 years old and scored 85. He/She is taking: Maths, English.
+- Muslim Ibrahim is 25 years old and scored 90. He/She is taking: Physics, Chemistry.
